@@ -12,8 +12,8 @@
 
 <br/>
 
-<div style="display: flex; justify-content: space-between; flex-direction: row;  align-items: flex-start;">
-  <div style="flex: 1;">
+<div style="display: flex; justify-content: space-between; flex-direction: row; flex-direction: rows">
+  <div>
     <p>🔭 I’m currently working on <strong>a marketplace</strong></p>
     <p>🌱 I’m currently learning <strong>Docker.</strong></p>
     <p>💬 Ask me about <strong>Node.js, React, SQL... or anything <a href="https://github.com/habibmrizki">here</a></strong></p>
