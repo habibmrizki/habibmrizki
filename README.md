@@ -12,7 +12,7 @@
 
 <br/>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-direction: row;">
+<div style="display: flex; justify-content: space-between; flex-direction: row;">
   <div style="flex: 1;">
     <p>🔭 I’m currently working on <strong>a marketplace</strong></p>
     <p>🌱 I’m currently learning <strong>Docker.</strong></p>
