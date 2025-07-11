@@ -19,8 +19,8 @@
     <p>💬 Ask me about <strong>Node.js, React, SQL... or anything <a href="https://github.com/habibmrizki">here</a></strong></p>
     <p>⚡ Fun fact <strong>Game of Thrones Night's Watch cloaks are made from Ikea rugs</strong></p>
   </div>
-  <div style="margin-left: 20px;">
-    <img height="150" src="https://media.giphy.com/media/3xz2Bw12fe9iyG06v6/giphy.gif?cid=ecf05e47wgm0pu99dr140tnlh903ricz4xjkoc689b4ymg5w&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+  <div>
+    <img height="120" src="https://media.giphy.com/media/3xz2Bw12fe9iyG06v6/giphy.gif?cid=ecf05e47wgm0pu99dr140tnlh903ricz4xjkoc689b4ymg5w&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
   </div>
 </div>
 <div align="center">
