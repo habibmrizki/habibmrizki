@@ -13,12 +13,12 @@
 <br/>
 
 <div style="display: flex; justify-content: space-between; flex-direction: row; flex-direction: rows">
-  <div style="text-align: center">
+<center>
     <p>🔭 I’m currently working on <strong>a marketplace</strong></p>
     <p>🌱 I’m currently learning <strong>Docker.</strong></p>
     <p>💬 Ask me about <strong>Node.js, React, SQL... or anything <a href="https://github.com/habibmrizki">here</a></strong></p>
     <p>⚡ Fun fact <strong>Game of Thrones Night's Watch cloaks are made from Ikea rugs</strong></p>
-  </div>
+</center>
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/habib-rizki/" target="_blank">
