@@ -1,47 +1,97 @@
 <div align="center">
-  <img height="120" width="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWkyemFucnhmb2l1NTdudHRmeXFoMWprNnZsNXp4NGNrMDVjc3FyZiZlcD12MV9naWZzX2VhcnhjCZjd=g/u2Wgd4OwsA0Ny69v20/giphy.gif"  />
-</div>
 
-###
+  <img height="140" src="https://i.giphy.com/u2Wgd4OwsA0Ny69v20.gif" alt="Coding Banner" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Habib+Muhammad+Rizki!;" />
-</h1>
-
-<h3 align="center">A passionate software developer from Indonesia INA</h3>
-
-<br/>
-
-<div style="display: flex; justify-content: space-between; flex-direction: row; flex-direction: rows">
-<div align="center">
-    <p>🔭 I’m currently working on <strong>a marketplace</strong></p>
-    <p>🌱 I’m currently learning <strong>Docker.</strong></p>
-    <p>💬 Ask me about <strong>Node.js, React, SQL... or anything <a href="https://github.com/habibmrizki">here</a></strong></p>
-    <p>⚡ Fun fact <strong>Game of Thrones Night's Watch cloaks are made from Ikea rugs</strong></p>
-</div>
-</div>
-<div align="center">
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://github.com/habibmrizki">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there!+I+am+Habib+Muhammad+Rizki;Fullstack+Software+Developer;Passionate+about+Golang,+TypeScript+and+React;Building+Scalable+Web+Applications" alt="Typing SVG" />
   </a>
+
+  <p align="center">
+    <strong>A passionate Software Developer from Indonesia 🇮🇩</strong><br/>
+    Focused on creating high-performance web applications, robust backends, and clean UI.
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/habibmrizki" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/habibmrizki" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://instagram.com/habibmrizki" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="mailto:habibboboho@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+
 </div>
 
-<hr/>
+---
 
-<h2 align="center"⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+### 💫 About Me
+
+```yaml
+name: Habib Muhammad Rizki
+location: Indonesia 🇮🇩
+role: Fullstack Web Developer
+currently_working_on: Marketplace & Fullstack Web Applications
+currently_learning: DevOps, Docker, Kubernetes, System Design & Architecture
+ask_me_about: Go, TypeScript, React, Node.js, PostgreSQL, Docker, REST APIs
+collaborations: Open-source projects & modern web solutions
+fun_fact: "I turn complex real-world problems into clean, scalable code ⚡"
+```
+
+---
+
+### 💻 Tech Stack & Tools
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,javascript,nodejs,go" />
+
+  **Languages & Frontend**<br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,go,react,redux,tailwind,bootstrap,html,css,vite" alt="Frontend & Languages" />
+  </a>
+  <br/><br/>
+
+  **Backend, Database & DevOps**<br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,postgres,redis,docker,nginx,linux" alt="Backend & DevOps" />
+  </a>
+  <br/><br/>
+
+  **Tools & Workflow**<br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" alt="Tools" />
+  </a>
+
 </div>
 
-<br/>
-<hr/>
+---
+
+### 📊 GitHub Analytics
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=habibmrizki&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_bold=false" alt="Habib's GitHub Stats" />
+      </td>
+      <td>
+        <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=habibmrizki&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/fulsep/fulsep/output/github-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/fulsep/fulsep/output/github-snake.svg#gh-light-mode-only)
+  <img src="https://streak-stats.demolab.com/?user=habibmrizki&theme=tokyonight&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8" alt="Streak Stats" />
 
-  <br/><br/><br/>
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=habibmrizki&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=habibmrizki&color=38bdf8&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
+
 </div>
