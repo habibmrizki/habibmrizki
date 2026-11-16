@@ -42,29 +42,31 @@ fun_fact: "I turn complex real-world problems into clean, scalable code ⚡"
 
 <h3 align="center">💻 Tech Stack & Tools</h3>
 
-<div align="center">
+<div align="center" style="display: flex; flex-direction: column; gap: 20px;">
 
-<strong>Languages & Frontend</strong>
-<br/><br/>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=py,ts,js,go,react,nextjs,redux,tailwind,bootstrap,html,css,vite" alt="Frontend & Languages" />
-</a>
+  <div>
+    <strong>Languages & Frontend</strong>
+    <br/><br/>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=py,ts,js,go,react,nextjs,redux,tailwind,bootstrap,html,css,vite" alt="Frontend & Languages" />
+    </a>
+  </div>
 
-<br/><br/>
+  <div>
+    <strong>Backend, Database & DevOps</strong>
+    <br/><br/>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nodejs,postgres,redis,docker,nginx,linux" alt="Backend & DevOps" />
+    </a>
+  </div>
 
-<strong>Backend, Database & DevOps</strong>
-<br/><br/>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,redis,docker,nginx,linux" alt="Backend & DevOps" />
-</a>
-
-<br/><br/>
-
-<strong>Tools & Workflow</strong>
-<br/><br/>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" alt="Tools" />
-</a>
+  <div>
+    <strong>Tools & Workflow</strong>
+    <br/><br/>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" alt="Tools" />
+    </a>
+  </div>
 
 </div>
 
